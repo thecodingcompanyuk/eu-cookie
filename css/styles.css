@@ -1,0 +1,27 @@
+section{
+  width:80%;
+  margin: 0px auto;
+}
+#ccCookieBar{
+  position: fixed;
+  bottom: 0;
+  width:100%;
+  text-align:center;
+  background:rgba(36,36,36,0.8);
+  padding-top:10px;
+  padding-bottom:10px;
+  color:white;
+}
+#ccCookieButton{
+  background:orange;
+  color:white;
+  border-radius: 8px;
+  padding:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-left:10px;
+  text-decoration: none;
+}
+a#ccCookieButton:hover{
+background: green;
+}
